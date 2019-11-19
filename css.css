@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+section{
+    margin-top: 40px;
+}
+
+/*Navegador*/
+nav{
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+    font-size: 25px;   
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    background:  #b1baf0;
+    width: 25%;
+    text-align: center;
+    color: #0c30f8;
+}
+
+li:hover{
+    background:  #00ff15;
+    font-size: 27px;
+}
